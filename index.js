@@ -10,7 +10,7 @@ function johnLennonFacts(facts) {
   var exclaimationsArr = [];
   var index = 0;
   while (index < facts.length) {
-    exclaimationsArr[index] = `facts[index]!!!`;
+    exclaimationsArr[index] = `${facts[index]}!!!`;
     index++
   }
   return exclaimationsArr;
