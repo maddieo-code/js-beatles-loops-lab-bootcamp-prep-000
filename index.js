@@ -13,5 +13,5 @@ function johnLennonFacts(facts) {
     exclaimationsArr[index] = `facts[index]!!!`;
     index++
   }
-  return exlaimationsArr;
+  return exclaimationsArr;
 }
